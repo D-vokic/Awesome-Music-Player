@@ -6,7 +6,7 @@ This is a simple and elegant music player built with HTML, CSS, and JavaScript. 
 
 ## Demo
 
-You can view a live demo of this project [here]().
+You can view a live demo of this project [here](https://d-vokic.github.io/Awesome-Music-Player/).
 
 ## Table of Contents
 
